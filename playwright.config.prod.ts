@@ -29,6 +29,7 @@ export default defineConfig({
       startServer: false,
     }]
   ],
+  //true test
   
   use: {
     
@@ -45,7 +46,6 @@ export default defineConfig({
     appPassword: 'test123'
   },
 
-  /* Configure projects for major browsers */
   projects: [
   {
     name: 'Google Chrome',

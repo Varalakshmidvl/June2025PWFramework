@@ -28,7 +28,7 @@ export default defineConfig({
       startServer: false,  // Set to false for CI
     }]
   ],
-  
+  //use file to track 
   use: {
     trace: 'on-first-retry',
     headless: !!process.env.CI,  // false locally, true in CI
