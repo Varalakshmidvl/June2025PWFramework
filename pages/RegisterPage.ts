@@ -1,7 +1,7 @@
 
 import { Locator, Page } from '@playwright/test';
 import { ElementUtil } from '../utils/ElementUtil';
-
+//Regiser page
 
 export class RegisterPage{
 

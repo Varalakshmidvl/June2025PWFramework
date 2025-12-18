@@ -2,6 +2,7 @@
 import { ResultsPage } from '../pages/ResultsPage';
 import { test, expect } from '../fixtures/baseFixtures';
 
+// search result 
 
 //data provider for product search key and results count
 const searchData = [
