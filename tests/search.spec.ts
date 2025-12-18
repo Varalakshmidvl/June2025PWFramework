@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import { ResultsPage } from '../pages/ResultsPage';
 import { test, expect } from '../fixtures/baseFixtures';
 
@@ -24,8 +24,7 @@ for (const product of searchData) {
 
 }
 
-
-=======
+/*
 import { ResultsPage } from '../pages/ResultsPage';
 import { test, expect } from '../fixtures/baseFixtures'
 
@@ -50,6 +49,4 @@ for (let product of searchData) {
 });
 
 }
-
-
->>>>>>> fcb12a2 (Jenkins file for CICD)
+*/

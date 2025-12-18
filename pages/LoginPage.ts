@@ -48,6 +48,7 @@ export class LoginPage{
         await this.eleUtil.click(this.loginBtn, { force: true, timeout: 5000 });
         return new HomePage(this.page);
     }
+    //added jenkin file
 
     /**
      * get the warning message in case of invalid login
